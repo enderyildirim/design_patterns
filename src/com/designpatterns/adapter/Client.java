@@ -1,4 +1,4 @@
-package com.designpatterns.adapter.shape;
+package com.designpatterns.adapter;
 
 import java.util.ArrayList;
 import java.util.List;

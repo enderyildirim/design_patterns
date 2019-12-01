@@ -1,6 +1,6 @@
 package com.designpatterns.factory_method.logistic;
 
-public class LogisticsTest {
+public class Client {
 
     public static void main(String[] args) {
         Logistics logistics = new RoadLogistics();

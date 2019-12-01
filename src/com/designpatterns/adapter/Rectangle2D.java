@@ -1,4 +1,4 @@
-package com.designpatterns.adapter.shape;
+package com.designpatterns.adapter;
 
 public class Rectangle2D implements GeometricObject {
 
