@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="315aea8d-af25-4d65-b409-9f5269ccd5b3" name="Default Changelist" comment="visitor">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/META-INF/design_patterns.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/GeometricObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/Rectangle2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/ShapeAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/Triangle2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/adapter/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Blue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Red.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/bridge/Yellow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/Flashlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/Hammer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/HeadPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/composite/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/BaseDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/FacebookDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/MailNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/Notifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/NotifierRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/SlackDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/SmsDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/decorator/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/AnotherApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/Document.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/MyApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/PdfDocument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/TextDocument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/application/XMLDocument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/Logistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/RoadLogistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/SeaLogictics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/Ship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/Transport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/logistic/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/Button.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/Dialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/HTMLButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/WebDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/WindowsButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/factory_method/ui/WindowsDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/MovingParticle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/Particle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/ParticleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/flyweight/Vector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/DocumentEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/Graphic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/Image.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/ImageProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/proxy/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/strategy/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/strategy/Cipher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/strategy/CipherStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/strategy/InMemoryCipher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/strategy/SwapToDiskCipher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/strategy/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Ak47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Cyborg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/GameObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Machine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/MolotovCocktails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design_patterns/com/designpatterns/visitor/Weapon.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="117" column="51" selection-start-line="117" selection-start-column="51" selection-end-line="117" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Weapon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/designpatterns/proxy/document/ImageProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/proxy/document/DocumentApplication.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Color.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Red.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Blue.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Yellow.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/bridge/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/Notifier.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/BaseDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/NotifierRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/SmsDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/FacebookDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/SlackDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/decorator/MailNotifier.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/strategy/CipherFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/strategy/Cipher.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/strategy/CipherStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/strategy/SwapToDiskCipher.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/strategy/InMemoryCipher.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/strategy/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/composite/HeadPhone.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/composite/Phone.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/composite/Hammer.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/composite/Flashlight.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/composite/Box.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/composite/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/flyweight/Vector.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/flyweight/Particle.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/flyweight/MovingParticle.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/flyweight/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/flyweight/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/flyweight/ParticleFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Character.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Fire.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Gun.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Weapon.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Ak47.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Pistol.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/MolotovCocktails.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Cyborg.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Human.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Machine.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Wall.java" />
+        <option value="$PROJECT_DIR$/src/com/designpatterns/visitor/Game.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Personal\workspace\design_patterns\src\com\designpatterns\decorator\notifier" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.designpatterns.strategy" />
+      <recent name="com.designpatterns.bridge" />
+      <recent name="com.company.factory_method_pattern.logistic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.strategy.Application" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.composite.Application" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.flyweight.Application" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.decorator.Application" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.bridge.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.adapter.shape.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.adapter.shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.visitor.Game" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Application (3)" />
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315aea8d-af25-4d65-b409-9f5269ccd5b3" name="Default Changelist" comment="" />
+      <created>1573484946581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573484946581</updated>
+      <workItem from="1573484947974" duration="784000" />
+      <workItem from="1573915240072" duration="5751000" />
+      <workItem from="1574018457371" duration="1191000" />
+      <workItem from="1574095996683" duration="2529000" />
+      <workItem from="1574348990634" duration="2720000" />
+      <workItem from="1574437850949" duration="3149000" />
+      <workItem from="1574457292178" duration="5324000" />
+      <workItem from="1574800493606" duration="1676000" />
+      <workItem from="1574870587544" duration="1225000" />
+      <workItem from="1575102990019" duration="3983000" />
+      <workItem from="1575320189192" duration="3176000" />
+      <workItem from="1575404377807" duration="3794000" />
+      <workItem from="1575487299119" duration="527000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit.">
+      <created>1574097127954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574097127954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated">
+      <created>1575203376007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575203376007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="visitor">
+      <created>1575437083085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575437083085</updated>
+    </task>
+    <task id="LOCAL-00004" summary="visitor">
+      <created>1575487719627</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575487719627</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35829000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.20766129" />
+      <window_info id="Structure" order="1" sideWeight="0.5010661" side_tool="true" weight="0.2533602" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13142857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.28360215" />
+      <window_info id="Structure" order="1" sideWeight="0.5010661" side_tool="true" weight="0.2533602" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.13142857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="initial commit." />
+    <MESSAGE value="updated" />
+    <MESSAGE value="visitor" />
+    <option name="LAST_COMMIT_MESSAGE" value="visitor" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/decorator/MailNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.designpatterns.decorator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.designpatterns.decorator</OriginalElement>
+          <nodes>
+            <node x="" y="">com.designpatterns.decorator.notifier</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9639794168096055" x="272.0" y="282.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/adapter/GeometricObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/javax.swing">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>javax.swing</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.swing.UIManager</node>
+            <node x="" y="">javax.swing.table</node>
+            <node x="" y="">javax.swing.SpringLayout</node>
+            <node x="" y="">javax.swing.GrayFilter</node>
+            <node x="" y="">javax.swing.OverlayLayout</node>
+            <node x="" y="">javax.swing.DefaultListSelectionModel</node>
+            <node x="" y="">javax.swing.JCheckBoxMenuItem</node>
+            <node x="" y="">javax.swing.BufferStrategyPaintManager</node>
+            <node x="" y="">javax.swing.ClientPropertyKey</node>
+            <node x="" y="">javax.swing.DelegatingDefaultFocusManager</node>
+            <node x="" y="">javax.swing.UnsupportedLookAndFeelException</node>
+            <node x="" y="">javax.swing.DropMode</node>
+            <node x="" y="">javax.swing.SwingContainerOrderFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.SwingWorker</node>
+            <node x="" y="">javax.swing.filechooser</node>
+            <node x="" y="">javax.swing.RowSorter</node>
+            <node x="" y="">javax.swing.JFileChooser</node>
+            <node x="" y="">javax.swing.JComboBox</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">javax.swing.ButtonModel</node>
+            <node x="" y="">javax.swing.DefaultBoundedRangeModel</node>
+            <node x="" y="">javax.swing.DesktopManager</node>
+            <node x="" y="">javax.swing.KeyboardManager</node>
+            <node x="" y="">javax.swing.Timer</node>
+            <node x="" y="">javax.swing.KeyStroke</node>
+            <node x="" y="">javax.swing.JToolBar</node>
+            <node x="" y="">javax.swing.DefaultListCellRenderer</node>
+            <node x="" y="">javax.swing.ToolTipManager</node>
+            <node x="" y="">javax.swing.SingleSelectionModel</node>
+            <node x="" y="">javax.swing.text</node>
+            <node x="" y="">javax.swing.ComboBoxModel</node>
+            <node x="" y="">javax.swing.JRadioButton</node>
+            <node x="" y="">javax.swing.Box</node>
+            <node x="" y="">javax.swing.GraphicsWrapper</node>
+            <node x="" y="">javax.swing.DebugGraphicsInfo</node>
+            <node x="" y="">javax.swing.plaf</node>
+            <node x="" y="">javax.swing.AbstractAction</node>
+            <node x="" y="">javax.swing.Spring</node>
+            <node x="" y="">javax.swing.CellRendererPane</node>
+            <node x="" y="">javax.swing.DebugGraphicsFilter</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+            <node x="" y="">javax.swing.JPanel</node>
+            <node x="" y="">javax.swing.AncestorNotifier</node>
+            <node x="" y="">javax.swing.colorchooser</node>
+            <node x="" y="">javax.swing.DefaultRowSorter</node>
+            <node x="" y="">javax.swing.BoundedRangeModel</node>
+            <node x="" y="">javax.swing.ListSelectionModel</node>
+            <node x="" y="">javax.swing.JColorChooser</node>
+            <node x="" y="">javax.swing.JSplitPane</node>
+            <node x="" y="">javax.swing.JApplet</node>
+            <node x="" y="">javax.swing.SpinnerNumberModel</node>
+            <node x="" y="">javax.swing.MenuSelectionManager</node>
+            <node x="" y="">javax.swing.Action</node>
+            <node x="" y="">javax.swing.InputVerifier</node>
+            <node x="" y="">javax.swing.DefaultSingleSelectionModel</node>
+            <node x="" y="">javax.swing.JTabbedPane</node>
+            <node x="" y="">javax.swing.JEditorPane</node>
+            <node x="" y="">javax.swing.ImageIcon</node>
+            <node x="" y="">javax.swing.JTextPane</node>
+            <node x="" y="">javax.swing.JToolTip</node>
+            <node x="" y="">javax.swing.CompareTabOrderComparator</node>
+            <node x="" y="">javax.swing.DefaultButtonModel</node>
+            <node x="" y="">javax.swing.SpinnerModel</node>
+            <node x="" y="">javax.swing.AbstractButton</node>
+            <node x="" y="">javax.swing.ProgressMonitor</node>
+            <node x="" y="">javax.swing.JProgressBar</node>
+            <node x="" y="">javax.swing.ActionMap</node>
+            <node x="" y="">javax.swing.CellEditor</node>
+            <node x="" y="">javax.swing.ColorChooserDialog</node>
+            <node x="" y="">javax.swing.JRootPane</node>
+            <node x="" y="">javax.swing.JButton</node>
+            <node x="" y="">javax.swing.FocusManager</node>
+            <node x="" y="">javax.swing.AbstractCellEditor</node>
+            <node x="" y="">javax.swing.DefaultFocusManager</node>
+            <node x="" y="">javax.swing.ButtonGroup</node>
+            <node x="" y="">javax.swing.LookAndFeel</node>
+            <node x="" y="">javax.swing.MenuElement</node>
+            <node x="" y="">javax.swing.InternalFrameFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.JScrollPane</node>
+            <node x="" y="">javax.swing.JWindow</node>
+            <node x="" y="">javax.swing.undo</node>
+            <node x="" y="">javax.swing.DefaultListModel</node>
+            <node x="" y="">javax.swing.Painter</node>
+            <node x="" y="">javax.swing.JScrollBar</node>
+            <node x="" y="">javax.swing.JTextArea</node>
+            <node x="" y="">javax.swing.JLayeredPane</node>
+            <node x="" y="">javax.swing.ListModel</node>
+            <node x="" y="">javax.swing.SwingDefaultFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.Scrollable</node>
+            <node x="" y="">javax.swing.JDialog</node>
+            <node x="" y="">javax.swing.PopupFactory</node>
+            <node x="" y="">javax.swing.LegacyLayoutFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.JToggleButton</node>
+            <node x="" y="">javax.swing.JLayer</node>
+            <node x="" y="">javax.swing.AbstractListModel</node>
+            <node x="" y="">javax.swing.AbstractSpinnerModel</node>
+            <node x="" y="">javax.swing.ComponentInputMap</node>
+            <node x="" y="">javax.swing.LayoutFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.DefaultComboBoxModel</node>
+            <node x="" y="">javax.swing.JMenuBar</node>
+            <node x="" y="">javax.swing.ScrollPaneConstants</node>
+            <node x="" y="">javax.swing.JDesktopPane</node>
+            <node x="" y="">javax.swing.MultiUIDefaults</node>
+            <node x="" y="">javax.swing.SpinnerDateModel</node>
+            <node x="" y="">javax.swing.UIDefaults</node>
+            <node x="" y="">javax.swing.JMenu</node>
+            <node x="" y="">javax.swing.ColorTracker</node>
+            <node x="" y="">javax.swing.Icon</node>
+            <node x="" y="">javax.swing.BorderFactory</node>
+            <node x="" y="">javax.swing.JPasswordField</node>
+            <node x="" y="">javax.swing.DebugGraphicsObserver</node>
+            <node x="" y="">javax.swing.JSlider</node>
+            <node x="" y="">javax.swing.LayoutComparator</node>
+            <node x="" y="">javax.swing.JSeparator</node>
+            <node x="" y="">javax.swing.DebugGraphics</node>
+            <node x="" y="">javax.swing.JCheckBox</node>
+            <node x="" y="">javax.swing.tree</node>
+            <node x="" y="">javax.swing.border</node>
+            <node x="" y="">javax.swing.JTable</node>
+            <node x="" y="">javax.swing.LegacyGlueFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.ViewportLayout</node>
+            <node x="" y="">javax.swing.JInternalFrame</node>
+            <node x="" y="">javax.swing.ComboBoxEditor</node>
+            <node x="" y="">javax.swing.JTextField</node>
+            <node x="" y="">javax.swing.MutableComboBoxModel</node>
+            <node x="" y="">javax.swing.Popup</node>
+            <node x="" y="">javax.swing.RowFilter</node>
+            <node x="" y="">javax.swing.TablePrintable</node>
+            <node x="" y="">javax.swing.ProgressMonitorInputStream</node>
+            <node x="" y="">javax.swing.SwingConstants</node>
+            <node x="" y="">javax.swing.SizeRequirements</node>
+            <node x="" y="">javax.swing.Autoscroller</node>
+            <node x="" y="">javax.swing.SwingUtilities</node>
+            <node x="" y="">javax.swing.JMenuItem</node>
+            <node x="" y="">javax.swing.TransferHandler</node>
+            <node x="" y="">javax.swing.SpinnerListModel</node>
+            <node x="" y="">javax.swing.DefaultDesktopManager</node>
+            <node x="" y="">javax.swing.SortingFocusTraversalPolicy</node>
+            <node x="" y="">javax.swing.SwingHeavyWeight</node>
+            <node x="" y="">javax.swing.BoxLayout</node>
+            <node x="" y="">javax.swing.SizeSequence</node>
+            <node x="" y="">javax.swing.JComponent</node>
+            <node x="" y="">javax.swing.JFormattedTextField</node>
+            <node x="" y="">javax.swing.JSpinner</node>
+            <node x="" y="">javax.swing.TimerQueue</node>
+            <node x="" y="">javax.swing.JPopupMenu</node>
+            <node x="" y="">javax.swing.JList</node>
+            <node x="" y="">javax.swing.event</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">javax.swing.JTree</node>
+            <node x="" y="">javax.swing.JOptionPane</node>
+            <node x="" y="">javax.swing.DefaultCellEditor</node>
+            <node x="" y="">javax.swing.LayoutStyle</node>
+            <node x="" y="">javax.swing.SortOrder</node>
+            <node x="" y="">javax.swing.ListCellRenderer</node>
+            <node x="" y="">javax.swing.Renderer</node>
+            <node x="" y="">javax.swing.ActionPropertyChangeListener</node>
+            <node x="" y="">javax.swing.ArrayTable</node>
+            <node x="" y="">javax.swing.RepaintManager</node>
+            <node x="" y="">javax.swing.JLabel</node>
+            <node x="" y="">javax.swing.JRadioButtonMenuItem</node>
+            <node x="" y="">javax.swing.GroupLayout</node>
+            <node x="" y="">javax.swing.SwingPaintEventDispatcher</node>
+            <node x="" y="">javax.swing.InputMap</node>
+            <node x="" y="">javax.swing.ScrollPaneLayout</node>
+            <node x="" y="">javax.swing.JViewport</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6150986097639835" x="3170.0" y="479.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/border/Border.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/decorator/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/bridge/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/adapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/factory_method/application/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/adapter/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/factory_method/logistic/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/factory_method/logistic/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/factory_method/ui/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="178" column="31" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/UUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="190" column="29" lean-forward="true" selection-start-line="190" selection-start-column="29" selection-end-line="190" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/strategy/Cipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/strategy/CipherStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/strategy/SwapToDiskCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/strategy/InMemoryCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/strategy/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.designpatterns.strategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.designpatterns.strategy</OriginalElement>
+          <nodes>
+            <node x="" y="">com.designpatterns.strategy.InMemoryCipher</node>
+            <node x="" y="">com.designpatterns.strategy.SwapToDiskCipher</node>
+            <node x="" y="">com.designpatterns.strategy.CipherStrategy</node>
+            <node x="" y="">com.designpatterns.strategy.Cipher</node>
+            <node x="" y="">com.designpatterns.strategy.Application</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="30.0" y="123.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/HeadPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/Hammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/Flashlight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.designpatterns.composite">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.designpatterns.composite</OriginalElement>
+          <nodes>
+            <node x="" y="">com.designpatterns.composite.Phone</node>
+            <node x="" y="">com.designpatterns.composite.Box</node>
+            <node x="" y="">com.designpatterns.composite.HeadPhone</node>
+            <node x="" y="">com.designpatterns.composite.Application</node>
+            <node x="" y="">com.designpatterns.composite.Hammer</node>
+            <node x="" y="">com.designpatterns.composite.Flashlight</node>
+            <node x="" y="">com.designpatterns.composite.Item</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="318.0" y="167.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/composite/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/Particle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/MovingParticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/ParticleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.designpatterns.flyweight">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.designpatterns.flyweight</OriginalElement>
+          <nodes>
+            <node x="" y="">com.designpatterns.flyweight.Application</node>
+            <node x="" y="">com.designpatterns.flyweight.Particle</node>
+            <node x="" y="">com.designpatterns.flyweight.Vector</node>
+            <node x="" y="">com.designpatterns.flyweight.ParticleFactory</node>
+            <node x="" y="">com.designpatterns.flyweight.MovingParticle</node>
+            <node x="" y="">com.designpatterns.flyweight.Game</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="214.0" y="289.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/decorator/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/flyweight/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/strategy/UML.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/MolotovCocktails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Cyborg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Ak47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.designpatterns.visitor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.designpatterns.visitor</OriginalElement>
+          <nodes>
+            <node x="" y="">com.designpatterns.visitor.Machine</node>
+            <node x="" y="">com.designpatterns.visitor.GameObject</node>
+            <node x="" y="">com.designpatterns.visitor.MolotovCocktails</node>
+            <node x="" y="">com.designpatterns.visitor.Wall</node>
+            <node x="" y="">com.designpatterns.visitor.Cyborg</node>
+            <node x="" y="">com.designpatterns.visitor.Human</node>
+            <node x="" y="">com.designpatterns.visitor.Weapon</node>
+            <node x="" y="">com.designpatterns.visitor.Ak47</node>
+            <node x="" y="">com.designpatterns.visitor.Game</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9556213017751479" x="300.0" y="328.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/designpatterns/visitor/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="117" column="51" selection-start-line="117" selection-start-column="51" selection-end-line="117" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
