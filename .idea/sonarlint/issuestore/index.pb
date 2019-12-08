@@ -121,3 +121,6 @@ Z
 *src/com/designpatterns/visitor/Weapon.java,9\a\9a106e9557160d32ed295ee60c19a6af41ccceac
 X
 (src/com/designpatterns/visitor/Game.java,c\2\c2e12d84bd242f6eaa3ea9bf1f35567b04627b7e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
